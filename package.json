@@ -1,0 +1,25 @@
+{
+  "name": "dom-element-client-rectangles",
+  "version": "0.1.0",
+  "description": "Get array with coordinates for DOM Element offset top left corner of page (considering scroll) or given parent Element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volux/dom-element-client-rectangles.git"
+  },
+  "keywords": [
+    "dom",
+    "offset",
+    "position",
+    "rectangles"
+  ],
+  "author": "Andrey Skulov <andrey.skulov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volux/dom-element-client-rectangles/issues"
+  },
+  "homepage": "https://github.com/volux/dom-element-client-rectangles#readme"
+}
